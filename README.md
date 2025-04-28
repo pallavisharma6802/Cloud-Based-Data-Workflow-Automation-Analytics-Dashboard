@@ -1,8 +1,3 @@
-Thanks for clarifying — you want a **fully professional**, **properly formatted**, **clean and aligned** README file, as it would appear on GitHub — clear headings, no clutter, neat sections.
-
-Let’s do this **perfectly**:
-
----
 
 # 📊 Cloud-Based Data Analytics Dashboard
 
