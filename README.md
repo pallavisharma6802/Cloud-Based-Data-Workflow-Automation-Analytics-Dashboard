@@ -1,5 +1,5 @@
 
-# 📊 Cloud-Based Data Analytics Dashboard
+#Cloud-Based Data Analytics Dashboard
 
 ## Overview
 **Cloud-Based Data Analytics Dashboard** is an interactive application built with **Streamlit** that enables users to upload datasets from **AWS S3**, **Google Drive**, or local CSV files.  
@@ -44,11 +44,6 @@ The platform automates data preprocessing, stores data in a local **SQLite** dat
    git clone https://github.com/pallavisharma6802/Cloud-Based-Data-Workflow-Automation-Analytics-Dashboard.git
    ```
 
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 3. **Launch the application**
    ```bash
    streamlit run app.py
@@ -61,12 +56,4 @@ Uploaded CSV files should contain at minimum the following columns (flexible aft
 - **Date** (in any consistent format)
 - **Category** (categorical variable for grouping)
 - **Value** (numeric measurement for analysis)
-
----
-
-## Future Enhancements
-- Integration with real-time cloud databases (e.g., Firebase, AWS RDS).
-- Enhanced data preprocessing including outlier detection and missing data imputation.
-- Expanded visualization modules (correlation matrices, clustering visualizations).
-- User authentication and query history tracking.
 
